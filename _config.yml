@@ -3,7 +3,7 @@ title: New title
 description: My webpage
 show_downloads: True
 navigation:
-  - title: Sricharani-Microbiointerface
+  - title: "Sricharani-Microbiointerface"
     url: /
   - title: Setup
     url: setup
