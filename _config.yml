@@ -3,8 +3,12 @@ title: Sricharani Balmuri
 description: My webpage
 show_downloads: True
 navigation:
-  - title: Setup
+  - title: Home
+    url: /
+  - title: Sricharani Balmuri
     url: setup
   - title: Isoniazid Uptake
-   url: niz
+    url: niz
+  - title: PZA Uptake
+    url: pza
 
