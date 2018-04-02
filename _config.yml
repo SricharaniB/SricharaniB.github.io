@@ -1,10 +1,10 @@
 theme: jekyll-theme-minimal
-title: New title
+title: Sricharani Balmuri
 description: My webpage
 show_downloads: True
 navigation:
-  - title:"Sricharani-Microbiointerface"
   - title: Setup
     url: setup
- 
+  - title: Isoniazid Uptake
+   url: niz
 
